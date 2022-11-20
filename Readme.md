@@ -6,7 +6,7 @@ Optimized the web page for for search engines by following the accessibility sta
 
 # Screenshot
 
-![screenshot](url "https://i.ibb.co/HgfW07w/screenshot.png")
+![screenshot](https://i.ibb.co/HgfW07w/screenshot.png)
 
 
 
