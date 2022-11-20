@@ -6,7 +6,7 @@ Optimized the web page for for search engines by following the accessibility sta
 
 # Screenshot
 
-![screenshot](https://github.com/zafarfast/week-1-challenge/screenshot.png?raw=true)
+![screenshot](https://github.com/zafarfast/week-1-challenge/screenshot.png)
 
 
 
